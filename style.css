@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+
+}
+header{
+    background-color: rgb(27, 22, 22);
+    color: rgb(248, 187, 108);
+    padding: 20PX;
+    border-radius: 50PX;
+    text-align: center;
+}
+footer{
+    background-color: rgb(27, 22, 22);
+    color: rgb(248, 187, 108);
+    padding: 10PX;
+    border-radius: 50PX;
+    text-align: center;
+}
+.D1{
+    background-color: aquamarine;
+}
